@@ -3,9 +3,9 @@ Python GUI Programming: STRING EDIT DISTANCE   Qi Chen   10/16/2014
 ———————————————————————————————————————————————
 Zip file information
 ----------
-After extracting the zip file, you file get 4 files in the main file. - GUI.py: this is the source file for the implementation of the program.
+After extracting the zip file, you file get 3 files in the main file. 
+- GUI.py: this is the source file for the implementation of the program.
 - README.pdf: this is read me file which shows you more information about the program.
-- Snapshots of test.pdf: it shows some snapshots of my program in action with some comments. The output format might be a little different from the ones in this file because I changed the format a little bit.
 - testfile: this file includes two text files, each of them contains a string. They are used to test whether the program goes well.
 
 Execute the program
